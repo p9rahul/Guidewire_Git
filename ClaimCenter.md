@@ -116,8 +116,6 @@ Example-
 | Property Claim | Medium   | Property Team    | Property Adjuster |
 | Medical Claim  | High     | Medical Team     | Medical Adjuster  |
 
-========================================================================
-
 ## 10. Guidewire ClaimCenter – Claim Activities
 
 1. Overview
@@ -187,7 +185,7 @@ The following table describes the common check statuses and their corresponding 
 | Voided    | Previously issued check has been cancelled.                         |
 | Stopped   | Payment has been stopped to prevent the check from being processed. |
 
-# ================================================
+# ===============================
 
 # Guidewire ClaimCenter – Tricky Interview Questions and Answers
 
