@@ -46,7 +46,7 @@ Integrations are used to connect ClaimCenter with "external applications" and "t
 | Batch Processing   | Scheduled bulk data exchange.                  |
 | Cloud API          | REST-based integration in Guidewire Cloud.     |
 
-### Example Workflow
+### 5. Example Workflow
 
 1. Customer reports an accident. -> FNOL
 2. ClaimCenter creates a new claim. -> Claim Submit
@@ -64,7 +64,7 @@ Integrations are used to connect ClaimCenter with "external applications" and "t
 - Understand how ClaimCenter communicates with external applications.
 - Understand the role of plugins and batch processing.
 
-# Claim Lifecycle Flow Diagram
+## 7. Claim Lifecycle Flow Diagram
 
 1. First Notice of Loss
 2. Claim Creation []
@@ -83,7 +83,7 @@ Integrations are used to connect ClaimCenter with "external applications" and "t
   Reserve - Estimated amount set aside for future claim payments
   Litigation - Legal proceedings associated with a claim
 
-# Recovery Methods in Guidewire ClaimCenter
+## 8. Recovery Methods in Guidewire ClaimCenter
 
 - The three concepts are related to claim financials, but technically, a deductible is not a recovery method.
 
@@ -93,9 +93,7 @@ SSD:
 2. Salvage Recovering money by selling "damaged property, vehicle parts", or other items after a claim settlement.
 3. Deductible The initial amount of a covered loss that the insured person must pay before the insurance company pays its portion.
 
-========================================================================
-
-# Claim Assignment - Based on this condition
+## 9. Claim Assignment - Based on this condition
 
 - Round robin to a User/Group
 - Claim Type - Motor/property
@@ -120,7 +118,7 @@ Example-
 
 ========================================================================
 
-# Guidewire ClaimCenter – Claim Activities
+## 10. Guidewire ClaimCenter – Claim Activities
 
 1. Overview
 
@@ -150,9 +148,7 @@ Available activity types depend on the ClaimCenter configuration.
 
 3. Activity Priority - Urgent/ High / Normal / Low
 
-========================================================================
-
-# What is an Exposure in ClaimCenter?
+## 11. What is an Exposure in ClaimCenter?
 
 An Exposure represents a specific "financial loss or liability" associated with a claim.
 Exposure represents an individual type of financial loss or liability within that claim
@@ -179,7 +175,7 @@ Subrogation?
 
 - Subrogation is the process of recovering claim expenses from a responsible third party after the insurance company pays the insured's claim.
 
-# Check Status
+## 12.Check Status
 
 The following table describes the common check statuses and their corresponding payment outcomes in Guidewire ClaimCenter.
 
