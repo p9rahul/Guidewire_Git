@@ -20,12 +20,11 @@ Here is a structured list of **Guidewire ClaimCenter topics** you can cover in y
                |
                v
         Integration Layer
-
-  (REST / SOAP / Plugins)
-  |
-  v
-  Data Layer
-  (Database)
+       (REST / SOAP / Plugins)
+               |
+               v
+        Data Layer
+       (Database)
 
 - ClaimCenter Modules
 - ClaimCenter User Interface
