@@ -118,21 +118,32 @@ Example-
 
 ## 10. Guidewire ClaimCenter – Claim Activities
 
+-
+
 1. Overview
 
 - Activities are tasks created to "track and manage work" related to an insurance claim.
 
 - Activities help "claim adjusters and claim handlers" manage their daily work, follow up on pending tasks, and ensure that claim-processing activities are completed on time.
 
-Examples:
+- An "Automated Activity" is created automatically by ClaimCenter based on configured business rules, workflows, or predefined system processes.
+  Examples:
+- Automatically create an activity to review a claim when it is submitted.
+- Create a follow-up activity when required documents are missing.
+- Create an activity for supervisor approval when the reserve exceeds a configured threshold.
+- Create an activity to review a claim before closure.
+- Generate an activity when a specific claim status is reached.
 
+- A "Manual Activity" is created by a claim adjuster or claim handler when a specific task needs to be performed during the claim lifecycle.
+  Examples:
 - Contact the insured person.
-- Collect accident reports.
-- Verify policy information.
-- Follow up with medical providers.
-- Review repair estimates.
-- Contact the claimant.
-- Complete claim investigation.
+- Collect a police report.
+- Collect Medical Records
+- Review medical bills.
+- Verify Repair Estimate
+- Schedule a vehicle inspection.
+- Follow up with a third-party claimant.
+- Request missing documents.
 
 2. Types of Activities
    No. Activity Type Description
@@ -145,6 +156,8 @@ Examples:
 Available activity types depend on the ClaimCenter configuration.
 
 3. Activity Priority - Urgent/ High / Normal / Low
+
+4.
 
 ## 11. What is an Exposure in ClaimCenter?
 
