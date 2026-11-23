@@ -52,11 +52,11 @@ Here is a structured list of **Guidewire ClaimCenter topics** you can cover in y
 
 - Claim
 - Policy
-- Insured
-- Claimant
+- Insured - Person or entity covered by the insurance policy.
+- Claimant - A person or entity requesting compensation for a loss or injury. Ex- Primary insured | Additioanl Insured (Family member or Vehicle Finance company) | 3rd party
 - Contacts
 - Incidents
-- Exposures
+- Exposures - An exposure represents a specific type of loss, damage, injury, or liability covered under an insurance claim.
 - Coverages
 - Reserves
 - Payments
