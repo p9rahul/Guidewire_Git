@@ -151,11 +151,43 @@ Available activity types depend on the ClaimCenter configuration.
 An Exposure represents a specific "financial loss or liability" associated with a claim.
 Exposure represents an individual type of financial loss or liability within that claim
 
-For example, an automobile accident may have:
+For example, an automobile/Motor accident may have: "Exposure"
 
-- Vehicle Damage Exposure.
-- Bodily Injury Exposure.
-- Property Damage Exposure.
+| Exposure                               | Description                                                                                         |
+| -------------------------------------- | --------------------------------------------------------------------------------------------------- |
+| **Vehicle Damage**                     | Damage to the insured vehicle due to an accident.                                                   |
+| **Bodily Injury (BI)**                 | Injuries sustained by the insured driver or passengers.                                             |
+| **TPPD (Third Party Property Damage)** | Damage caused to another person's vehicle or property.                                              |
+| **TPBI (Third Party Bodily Injury)**   | Injuries caused to a third party due to the accident.                                               |
+| **Own Damage (OD)**                    | Damage to the insured's own vehicle.                                                                |
+| **Theft Exposure**                     | Loss of the insured vehicle due to theft.                                                           |
+| **Fire Damage**                        | Damage to the vehicle caused by fire.                                                               |
+| **Glass Damage**                       | Damage to the vehicle's windshield, windows, or mirrors.                                            |
+| **Personal Accident (PA)**             | Compensation for accidental death or disability, subject to policy coverage.                        |
+| **Medical Expenses**                   | Medical treatment expenses resulting from accident-related injuries.                                |
+| **Towing / Roadside Assistance**       | Expenses incurred for towing or roadside assistance after an accident.                              |
+| **Total Loss (TL)**                    | Vehicle is damaged beyond economical repair or declared a total loss under applicable policy terms. |
+| **Partial Loss**                       | Vehicle requires repairs but is not considered a total loss.                                        |
+
+Property Exposure-
+
+| Exposure                             | Description                                                                                                                |
+| ------------------------------------ | -------------------------------------------------------------------------------------------------------------------------- |
+| **Building Damage**                  | Damage to the insured building or structure due to fire, storms, floods, or other covered events.                          |
+| **Contents Damage**                  | Damage or loss of household belongings, furniture, appliances, and personal items.                                         |
+| **Personal Property**                | Loss or damage to personal belongings such as clothing, electronics, and valuables.                                        |
+| **Fire Damage**                      | Damage to the property and its contents caused by fire or smoke.                                                           |
+| **Water Damage**                     | Damage caused by water leakage, burst pipes, or plumbing failures.                                                         |
+| **Flood Damage**                     | Damage to the insured property caused by flooding, subject to policy coverage.                                             |
+| **Storm Damage**                     | Damage to the building, roof, or other property caused by storms, heavy rain, or strong winds.                             |
+| **Theft / Burglary**                 | Loss of insured property or belongings due to theft or burglary.                                                           |
+| **Glass Damage**                     | Damage to windows, glass doors, or other insured glass structures.                                                         |
+| **Additional Living Expenses (ALE)** | Temporary accommodation and additional living costs when the insured property becomes uninhabitable due to a covered loss. |
+| **Loss of Rent**                     | Rental income lost when an insured rental property becomes uninhabitable due to a covered event.                           |
+| **Debris Removal**                   | Expenses incurred for removing debris and damaged materials after a covered property loss.                                 |
+| **Business Interruption**            | Financial losses suffered by a business due to interruption caused by covered property damage.                             |
+| **Third Party Liability**            | Liability arising when damage or injury is caused to another person due to the insured property.                           |
+| **Additional Repair Expenses**       | Expenses incurred for repairing or restoring the damaged property.                                                         |
 
 multiple exposures?
 
